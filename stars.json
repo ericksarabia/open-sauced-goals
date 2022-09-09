@@ -1,50 +1,50 @@
 [
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 47397,
-    "open_issues_count": 76,
-    "forks_count": 6674
+    "stargazers_count": 47454,
+    "open_issues_count": 77,
+    "forks_count": 6689
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 92185,
-    "open_issues_count": 1336,
-    "forks_count": 20084
+    "stargazers_count": 92285,
+    "open_issues_count": 1348,
+    "forks_count": 20114
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 14431,
-    "open_issues_count": 672,
-    "forks_count": 1378
+    "stargazers_count": 14457,
+    "open_issues_count": 681,
+    "forks_count": 1383
   },
   {
     "full_name": "10up/10up-toolkit",
     "stargazers_count": 50,
-    "open_issues_count": 16,
+    "open_issues_count": 18,
     "forks_count": 13
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 17534,
-    "open_issues_count": 137,
-    "forks_count": 741
+    "stargazers_count": 17556,
+    "open_issues_count": 138,
+    "forks_count": 743
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 208193,
+    "stargazers_count": 208362,
     "open_issues_count": 40,
-    "forks_count": 23807
+    "forks_count": 23837
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 17624,
+    "stargazers_count": 17646,
     "open_issues_count": 115,
     "forks_count": 742
   },
   {
     "full_name": "Kong/insomnia",
-    "stargazers_count": 23079,
-    "open_issues_count": 503,
+    "stargazers_count": 23135,
+    "open_issues_count": 504,
     "forks_count": 1313
   },
   {
@@ -55,50 +55,50 @@
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 7806,
+    "stargazers_count": 7813,
     "open_issues_count": 89,
-    "forks_count": 388
+    "forks_count": 389
   },
   {
     "full_name": "styled-components/styled-components",
-    "stargazers_count": 37323,
-    "open_issues_count": 118,
+    "stargazers_count": 37336,
+    "open_issues_count": 117,
     "forks_count": 2339
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 96844,
-    "open_issues_count": 1784,
-    "forks_count": 25181
+    "stargazers_count": 96880,
+    "open_issues_count": 1787,
+    "forks_count": 25192
   },
   {
     "full_name": "joshwcomeau/guppy",
     "stargazers_count": 3249,
     "open_issues_count": 78,
-    "forks_count": 170
+    "forks_count": 169
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 194386,
-    "open_issues_count": 1096,
-    "forks_count": 40153
+    "stargazers_count": 194489,
+    "open_issues_count": 1091,
+    "forks_count": 40182
   },
   {
     "full_name": "Semantic-Org/Semantic-UI-React",
-    "stargazers_count": 12848,
+    "stargazers_count": 12849,
     "open_issues_count": 166,
-    "forks_count": 3942
+    "forks_count": 3943
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 53489,
-    "open_issues_count": 253,
-    "forks_count": 10430
+    "stargazers_count": 53500,
+    "open_issues_count": 247,
+    "forks_count": 10432
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 73783,
-    "open_issues_count": 2015,
+    "stargazers_count": 73835,
+    "open_issues_count": 2022,
     "forks_count": 7692
   }
 ]
