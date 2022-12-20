@@ -1,69 +1,69 @@
 [
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 2262,
-    "open_issues_count": 13,
-    "forks_count": 212
+    "stargazers_count": 2270,
+    "open_issues_count": 15,
+    "forks_count": 215
   },
   {
     "full_name": "jxnblk/mdx-deck",
-    "stargazers_count": 10977,
+    "stargazers_count": 10983,
     "open_issues_count": 144,
     "forks_count": 666
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 30520,
-    "open_issues_count": 217,
-    "forks_count": 54977
+    "stargazers_count": 30578,
+    "open_issues_count": 21,
+    "forks_count": 55071
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 50566,
+    "stargazers_count": 50672,
     "open_issues_count": 84,
-    "forks_count": 7149
+    "forks_count": 7167
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 97767,
-    "open_issues_count": 1608,
-    "forks_count": 21647
+    "stargazers_count": 97909,
+    "open_issues_count": 1613,
+    "forks_count": 21695
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 15747,
-    "open_issues_count": 747,
-    "forks_count": 1543
+    "stargazers_count": 15785,
+    "open_issues_count": 751,
+    "forks_count": 1546
   },
   {
     "full_name": "10up/10up-toolkit",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 14,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 18571,
+    "stargazers_count": 18601,
     "open_issues_count": 133,
-    "forks_count": 805
+    "forks_count": 811
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 219996,
-    "open_issues_count": 97,
-    "forks_count": 25175
+    "stargazers_count": 220413,
+    "open_issues_count": 100,
+    "forks_count": 25225
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 18598,
-    "open_issues_count": 93,
-    "forks_count": 775
+    "stargazers_count": 18644,
+    "open_issues_count": 95,
+    "forks_count": 779
   },
   {
     "full_name": "Kong/insomnia",
-    "stargazers_count": 25397,
-    "open_issues_count": 426,
-    "forks_count": 1372
+    "stargazers_count": 25498,
+    "open_issues_count": 434,
+    "forks_count": 1377
   },
   {
     "full_name": "emmanuellesoy/curso-platzi-react-avanzado",
@@ -73,50 +73,50 @@
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 8194,
-    "open_issues_count": 67,
-    "forks_count": 422
+    "stargazers_count": 8215,
+    "open_issues_count": 64,
+    "forks_count": 421
   },
   {
     "full_name": "styled-components/styled-components",
-    "stargazers_count": 37908,
-    "open_issues_count": 140,
-    "forks_count": 2373
+    "stargazers_count": 37926,
+    "open_issues_count": 141,
+    "forks_count": 2375
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 98254,
-    "open_issues_count": 1878,
-    "forks_count": 25719
+    "stargazers_count": 98283,
+    "open_issues_count": 1879,
+    "forks_count": 25734
   },
   {
     "full_name": "joshwcomeau/guppy",
-    "stargazers_count": 3256,
+    "stargazers_count": 3254,
     "open_issues_count": 78,
     "forks_count": 171
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 199157,
-    "open_issues_count": 1126,
-    "forks_count": 41351
+    "stargazers_count": 199329,
+    "open_issues_count": 1147,
+    "forks_count": 41399
   },
   {
     "full_name": "Semantic-Org/Semantic-UI-React",
-    "stargazers_count": 12922,
-    "open_issues_count": 181,
-    "forks_count": 3996
+    "stargazers_count": 12927,
+    "open_issues_count": 182,
+    "forks_count": 3997
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 53922,
-    "open_issues_count": 124,
-    "forks_count": 10494
+    "stargazers_count": 53931,
+    "open_issues_count": 128,
+    "forks_count": 10498
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 75528,
-    "open_issues_count": 2206,
-    "forks_count": 7992
+    "stargazers_count": 75564,
+    "open_issues_count": 2211,
+    "forks_count": 7994
   }
 ]
